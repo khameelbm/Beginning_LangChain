@@ -1,4 +1,4 @@
-# Beginning_LangChain 0.3
+# Beginning LangChain 0.3
 
 This repository contains the code for the book "**Beginning LangChain 0.3**".
 
