@@ -1,6 +1,6 @@
 # Beginning LangChain 0.3
 
-This repository contains the code for the book "**Beginning LangChain 0.3**".
+This repository contains the code for the book ["**Beginning LangChain 0.3**"](https://www.amazon.com/Beginning-LangChain-0-3-hands-introduction-ebook/dp/B0FJY6T2SV/ref=sr_1_1?).
 
 ## Book's description
 LangChain is one of the new frameworks designed for building generative AI (GenAI) applications with large language models (LLMs). 
